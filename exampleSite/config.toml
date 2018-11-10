@@ -1,0 +1,44 @@
+baseurl = "/"
+title = "Hugo Renga Theme"
+author = "Nan Xiao"
+relativeurls = true
+canonifyurls = true
+languagecode = "en"
+paginate = 3
+theme = "hugo-renga"
+
+enableEmoji = true
+hasCJKLanguage = true
+
+googleAnalytics = "UA-00000000-1"
+disqusShortname = "your-disqus-shortname"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+pagetitle = "Nan Xiao"
+copyright = "© 2018 Nan Xiao"
+copyrightUrl = "https://nanx.me"
+faviconfile = "image/favicon.png"
+logofile = "image/avatar.png"
+posts_navigation = true
+uselatex = true
+highlightjs = true
+progressively = false
+
+github = "road2stat"
+twitter = "road2stat"
+linkedin = "road2stat"
+email = "example@example.com"
+
+[[menu.primary]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.primary]]
+identifier = "blog"
+name = "Blog"
+url = "/blog/"
+weight = 2
