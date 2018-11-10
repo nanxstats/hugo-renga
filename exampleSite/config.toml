@@ -1,6 +1,6 @@
 baseurl = "/"
-title = "Hugo Renga Theme"
-author = "Nan Xiao"
+title = "Hugo Renga Theme Demo"
+author = "Jane Doe"
 relativeurls = true
 canonifyurls = true
 languagecode = "en"
@@ -16,8 +16,8 @@ disqusShortname = "your-disqus-shortname"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-pagetitle = "Nan Xiao"
-copyright = "© 2018 Nan Xiao"
+pagetitle = "Jane Doe"
+copyright = "© 2018 Jane Doe"
 copyrightUrl = "https://nanx.me"
 faviconfile = "image/favicon.png"
 logofile = "image/avatar.png"
