@@ -1,6 +1,6 @@
 # Renga
 
-[Live Preview](https://nanx.me/)
+[Live Preview](https://nanx.me/hugo-renga/)
 
 [Renga](https://github.com/road2stat/hugo-renga) is a Bootstrap-based minimalist theme for Hugo.
 
