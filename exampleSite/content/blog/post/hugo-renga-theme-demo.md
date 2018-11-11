@@ -52,7 +52,7 @@ _This is italic text_
 > They can span multiple paragraphs,
 > if you like.
 
-Some text, and some `code` and then a nice plain [link with title](https://github.com/road2stat/blog "title text!").
+Some text, and some `code` and then a nice plain [link with title](https://nanx.me "title text!").
 
 and then
 
