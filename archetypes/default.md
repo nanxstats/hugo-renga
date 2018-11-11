@@ -2,7 +2,7 @@
 title: '{{ replace .TranslationBaseName "-" " " | title }}'
 date: {{ .Date }}
 draft: true
-meta_img: "/image/image.jpg"
+meta_img: "https://url/image/image.png"
 tags:
   - "one tag"
   - "another tag"
