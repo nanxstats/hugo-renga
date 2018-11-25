@@ -133,6 +133,8 @@ author {
 .content .caption {
     text-align: center;
     margin-top: 10px;
+    color: #738491;
+    font-size: 15px;
 }
 
 .content .markdown {
