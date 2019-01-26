@@ -1,7 +1,6 @@
-baseurl = "/"
+baseurl = "https://nanx.me/hugo-renga/"
 title = "Hugo Renga Theme Demo"
 author = "Jane Doe"
-relativeurls = true
 canonifyurls = true
 languagecode = "en"
 paginate = 3
@@ -10,15 +9,15 @@ theme = "hugo-renga"
 enableEmoji = true
 hasCJKLanguage = true
 
-googleAnalytics = "UA-00000000-1"
-disqusShortname = "your-disqus-shortname"
+# googleAnalytics = "UA-00000000-1"
+# disqusShortname = "your-disqus-shortname"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
 pagetitle = "Jane Doe"
 copyright = "© 2018 Jane Doe"
-copyrightUrl = "https://nanx.me"
+copyrightUrl = "https://nanx.me/hugo-renga/"
 faviconfile = "image/favicon.png"
 logofile = "image/avatar.png"
 posts_navigation = true
