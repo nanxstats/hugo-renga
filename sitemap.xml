@@ -3,71 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/post/hello-markdown/</loc>
+    <loc>https://nanx.me/hugo-renga/blog/post/hello-markdown/</loc>
     <lastmod>2018-11-10T12:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/post/hugo-renga-theme-demo/</loc>
+    <loc>https://nanx.me/hugo-renga/blog/post/hugo-renga-theme-demo/</loc>
     <lastmod>2018-11-10T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://nanx.me/hugo-renga/</loc>
     <lastmod>2018-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/2015-07-23-r-rmarkdown/</loc>
+    <loc>https://nanx.me/hugo-renga/blog/2015-07-23-r-rmarkdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/post/lorem-ipsum/</loc>
+    <loc>https://nanx.me/hugo-renga/blog/post/lorem-ipsum/</loc>
     <lastmod>2015-01-01T13:09:13-06:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://nanx.me/hugo-renga/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>https://nanx.me/hugo-renga/blog/</loc>
     <lastmod>2018-11-10T12:00:00-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://nanx.me/hugo-renga/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/plot/</loc>
+    <loc>https://nanx.me/hugo-renga/tags/plot/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>https://nanx.me/hugo-renga/categories/r/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>https://nanx.me/hugo-renga/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/regression/</loc>
+    <loc>https://nanx.me/hugo-renga/tags/regression/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://nanx.me/hugo-renga/tags/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
