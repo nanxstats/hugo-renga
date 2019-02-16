@@ -65,9 +65,13 @@ author {
 }
 
 .header ul.nav li a {
-    color: #666666;
+    color: #7f7f7f;
     font-size: 14px;
     padding: 3px 10px 0 10px;
+}
+
+.header ul.nav li a:hover {
+    color: #343a40;
 }
 
 .header ul.nav li:first-child a {
@@ -114,20 +118,12 @@ author {
     content: "·";
 }
 
-.content .tags ul li {
-    transition: opacity 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
-    -webkit-transition: opacity 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
-    -moz-transition: opacity 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
-    -ms-transition: opacity 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
-    -o-transition: opacity 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
-}
-
-.content .tags ul li:hover {
-    opacity: 0.7;
-}
-
 .content .tags ul li a {
-    color: #666666;
+    color: #7f7f7f;
+}
+
+.content .tags ul li a:hover {
+    color: #343a40;
 }
 
 .content .caption {
