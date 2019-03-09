@@ -4,6 +4,13 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
+/* Fix jumping scrollbar when switching to long pages */
+
+html {
+    margin-left: calc(100vw - 100%);
+    margin-right: 0;
+}
+
 /* link */
 
 a {
