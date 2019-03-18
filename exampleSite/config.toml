@@ -25,9 +25,9 @@ uselatex = true
 highlightjs = true
 progressively = false
 
-github = "road2stat"
-twitter = "road2stat"
-linkedin = "road2stat"
+github = "nanxstats"
+twitter = "nanxstats"
+linkedin = "nanxstats"
 email = "example@example.com"
 
 [[menu.primary]]

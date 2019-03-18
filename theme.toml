@@ -1,15 +1,15 @@
 name = "renga"
 license = "MIT"
-licenselink = "https://github.com/road2stat/hugo-renga/blob/master/LICENSE"
+licenselink = "https://github.com/nanxstats/hugo-renga/blob/master/LICENSE"
 description = "A Bootstrap-based minimalist theme for Hugo."
-homepage = "https://github.com/road2stat/hugo-renga"
+homepage = "https://github.com/nanxstats/hugo-renga"
 tags = ["bootstrap", "minimalist", "responsive", "typography"]
 min_version = 0.17
 
 [author]
   name = "Nan Xiao"
   homepage = "https://nanx.me"
-  repo = "https://github.com/road2stat/hugo-renga"
+  repo = "https://github.com/nanxstats/hugo-renga"
 
 [original]
     name = "Gökmen Görgen"

@@ -4,7 +4,7 @@ author: "Jane Doe"
 date: "2018-11-10T12:00:00"
 ---
 
-[Renga](https://github.com/road2stat/hugo-renga) is a Bootstrap-based minimalist theme for Hugo.
+[Renga](https://github.com/nanxstats/hugo-renga) is a Bootstrap-based minimalist theme for Hugo.
 
 ## Features
 
