@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Plot</title>
-      <link>https://nanx.me/hugo-renga/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://nanx.me/hugo-renga/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>R Markdown</title>
       <link>https://nanx.me/hugo-renga/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
@@ -30,7 +21,16 @@
     </item>
     
     <item>
-      <title>Regression</title>
+      <title>plot</title>
+      <link>https://nanx.me/hugo-renga/tags/plot/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>https://nanx.me/hugo-renga/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression</title>
       <link>https://nanx.me/hugo-renga/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
