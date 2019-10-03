@@ -18,13 +18,13 @@
     <meta property="og:description" content="{{ .Description | default .Site.Params.description }}" />
 
     {{ if .Site.Params.twitter }}
-        <meta property="twitter:site" content="@{{ .Site.Params.twitter }}">
+        <meta name="twitter:site" content="@{{ .Site.Params.twitter }}">
     {{ end }}
 
-    <meta property="twitter:title" content="{{ .Title | default .Site.Title }}" />
-    <meta property="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.meta_img | default .Site.Params.logofile }}" />
-    <meta property="twitter:card" content="summary" />
-    <meta property="twitter:description" content="{{ .Description | default .Site.Params.description }}" />
+    <meta name="twitter:title" content="{{ .Title | default .Site.Title }}" />
+    <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.meta_img | default .Site.Params.logofile }}" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:description" content="{{ .Description | default .Site.Params.description }}" />
 
     <link rel="canonical" href="{{ .Permalink }}">
 
