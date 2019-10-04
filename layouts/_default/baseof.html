@@ -17,7 +17,7 @@
     <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.meta_img | default .Site.Params.logofile }}" />
     <meta property="og:description" content="{{ .Description | default .Site.Params.description }}" />
 
-    <meta name="twitter:card" content="{{ .Params.cardtype | default summary_large_image }}" />
+    <meta name="twitter:card" content="{{ .Params.cardtype | default "summary_large_image" }}" />
     {{ if .Site.Params.twitter }}
     <meta name="twitter:site" content="@{{ .Site.Params.twitter }}">
     <meta name="twitter:creator" content="@{{ .Site.Params.twitter }}">
